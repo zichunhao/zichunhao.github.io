@@ -63,7 +63,7 @@ cv:
         end_date: 2025-09
         summary: Self-supervised learning methods for high energy physics and the search for Higgs boson pair production with CMS data
 
-      - company: UCSD Duarte Lab
+      - company: UC San Diego Duarte Lab
         position: Undergraduate Researcher
         location: La Jolla, CA
         url: https://jduarte.physics.ucsd.edu/
@@ -110,8 +110,10 @@ cv:
 
       - title: Dean's Undergraduate Award for Excellence
         date: 2022
-        awarder: UCSD Physical Sciences
+        location: La Jolla, CA
+        awarder: UC San Diego Physical Sciences
 
       - title: Undergraduate Summer Research Award
         date: 2021
-        awarder: UCSD
+        location: La Jolla, CA
+        awarder: UC San Diego
