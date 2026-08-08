@@ -17,5 +17,6 @@ Spotlight paper at the ML4PS workshop at NeurIPS 2025, offered to about 1% of th
 
 - [arXiv:2509.07486](https://arxiv.org/abs/2509.07486)
 - [Code on GitHub](https://github.com/zichunhao/RINO)
+- [Spotlight talk at NeurIPS 2025](https://neurips.cc/virtual/2025/loc/san-diego/135882)
 - [ML4PS workshop paper](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_81.pdf)
 - [Poster at NeurIPS 2025](https://neurips.cc/media/PosterPDFs/NeurIPS%202025/122856.png)
