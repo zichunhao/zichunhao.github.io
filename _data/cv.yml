@@ -79,6 +79,7 @@ cv:
         url: /projects/rl-quantum-state-prep/
         start_date: 2026-03
         end_date: 2026-06
+        date_label: Spring 2026
         summary: One of two TAs who designed and built the course's final project on reinforcement learning for quantum state preparation
         highlights:
           - Led weekly lab sessions and taught core AI concepts, from neural network training to policy gradient methods
