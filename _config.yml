@@ -6,8 +6,6 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Zichun
 middle_name:
 last_name: Hao
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Zichun Hao — physics Ph.D. student at Caltech working on machine learning for particle physics,
   including self-supervised foundation models and geometric deep learning.
