@@ -8,8 +8,9 @@ profile:
   align: right
   image: # TODO(zichunhao): add prof_pic.jpg to assets/img/ and set `image: prof_pic.jpg`
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Pasadena, CA</p>
+  # more_info reappears when a profile photo is added (it renders under the photo):
+  # more_info: >
+  #   <p>Pasadena, CA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
