@@ -18,3 +18,18 @@ Published in the Journal of Open Source Software, volume 8, issue 90, page 5789 
 - [Paper (JOSS)](https://doi.org/10.21105/joss.05789)
 - [Code on GitHub](https://github.com/jet-net/JetNet)
 - [Documentation](https://jetnet.readthedocs.io/)
+
+## Cite
+
+```bibtex
+@article{Kansal2023jetnet,
+    author = "Kansal, Raghav and Pareja, Carlos and Hao, Zichun and Duarte, Javier",
+    title = "{JetNet: A Python package for accessing open datasets and benchmarking machine learning methods in high energy physics}",
+    journal = "Journal of Open Source Software",
+    volume = "8",
+    number = "90",
+    pages = "5789",
+    year = "2023",
+    doi = "10.21105/joss.05789"
+}
+```
