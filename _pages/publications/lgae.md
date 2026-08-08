@@ -10,7 +10,7 @@ Zichun Hao, Raghav Kansal, Javier Duarte, Nadezda Chernyavskaya
 Published in The European Physical Journal C, volume 83, page 485 (2023).
 
 <div style="text-align: center">
-  <img src="/assets/img/publication_preview/lgae.png" alt="LGAE architecture" style="max-width: min(420px, 100%); border-radius: 8px" loading="lazy">
+  <img src="/assets/img/publication_preview/lgae-page.png" alt="LGAE architecture" style="max-width: min(420px, 100%); border-radius: 8px" loading="lazy">
 </div>
 
 ## Abstract

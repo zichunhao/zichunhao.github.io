@@ -10,7 +10,7 @@ Michael Chen, Raghav Kansal, Abhijith Gandrakota, Zichun Hao, Jennifer Ngadiuba,
 Presented at the ML4PS workshop at NeurIPS 2025. I served as a mentor on this work.
 
 <div style="text-align: center">
-  <img src="/assets/img/publication_preview/arxiv-2511.12829.png" alt="Evaluation framework overview" style="max-width: min(420px, 100%); border-radius: 8px" loading="lazy">
+  <img src="/assets/img/publication_preview/arxiv-2511.12829-page.png" alt="Evaluation framework overview" style="max-width: min(420px, 100%); border-radius: 8px" loading="lazy">
 </div>
 
 ## Abstract

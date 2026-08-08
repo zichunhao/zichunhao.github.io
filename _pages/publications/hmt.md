@@ -10,7 +10,7 @@ M. Abbott et al. Published in JINST, volume 21, page P07040 (2026).
 I am a contributor to this work. I developed the electron+MDS and muon+MDS cross triggers, which were accepted into the CMS trigger menu in 2023.
 
 <div style="text-align: center">
-  <img src="/assets/img/publication_preview/hmt.png" alt="High Multiplicity Trigger" style="max-width: min(420px, 100%); border-radius: 8px" loading="lazy">
+  <img src="/assets/img/publication_preview/hmt-page.png" alt="High Multiplicity Trigger" style="max-width: min(420px, 100%); border-radius: 8px" loading="lazy">
 </div>
 
 ## Abstract
