@@ -70,9 +70,15 @@ cv:
       - company: Caltech Ph 22 (Computational Physics Laboratory III)
         position: Teaching Assistant
         location: Pasadena, CA
+        url: https://zichunhao.com/projects/rl-quantum-state-prep/
         start_date: 2026-03
         end_date: 2026-06
-        summary: Led lab sessions, graded coursework, and taught core AI concepts. One of two TAs who designed the reinforcement learning final project on quantum state preparation.
+        summary: One of two TAs who designed and built the course's final project on reinforcement learning for quantum state preparation
+        highlights:
+          - Led weekly lab sessions and taught core AI concepts, from neural network training to policy gradient methods
+          - Built the final project's Gymnasium environment over a Tavis-Cummings cavity QED simulator, the REINFORCE reference implementation, and PPO, SAC, and TQC baselines with MLP, LSTM, and Transformer policies
+          - Designed the project questions, the graded ladder of target quantum states, reward shaping, and multi-seed evaluation requirements
+          - Graded coursework and mentored students through their final project implementations
 
     Awards:
       - title: Spotlight paper (first author) at the ML4PS workshop at NeurIPS 2025
