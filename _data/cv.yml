@@ -88,27 +88,33 @@ cv:
     Awards:
       - title: Spotlight paper (first author) at the ML4PS workshop at NeurIPS 2025
         date: 2025-12
+        location: San Diego, CA
         awarder: ML4PS workshop at NeurIPS
         summary: Offered to about 1% of the workshop's accepted papers
 
       - title: Fermilab LPC Guest and Visitor Award
         date: 2025
+        location: Batavia, IL
         awarder: Fermilab LHC Physics Center
         url: https://lpc.fnal.gov/
 
       - title: Fermilab LPC Guest and Visitor Award
         date: 2024
+        location: Batavia, IL
         awarder: Fermilab LHC Physics Center
         url: https://lpc.fnal.gov/
 
       - title: Phi Beta Kappa Honor Society
         date: 2022-04
+        location: La Jolla, CA
         awarder: Phi Beta Kappa
 
       - title: Dean's Undergraduate Award for Excellence
         date: 2022
+        location: La Jolla, CA
         awarder: UCSD Physical Sciences
 
       - title: Undergraduate Summer Research Award
         date: 2021
+        location: La Jolla, CA
         awarder: UCSD
