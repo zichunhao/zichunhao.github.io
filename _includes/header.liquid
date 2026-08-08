@@ -121,6 +121,14 @@
             <li class="nav-item">
               <button id="search-toggle" type="button" title="Search" aria-label="Open search">
                 <span class="nav-link"><i class="fa-solid fa-magnifying-glass"></i></span>
+                <script>
+                  // al_search's shortcut-key.js rewrites this button to "⌘ k" on Macs at
+                  // readyState=interactive; re-assert the icon-only label after full load.
+                  window.addEventListener('load', () => {
+                    const el = document.querySelector('#search-toggle .nav-link');
+                    if (el) el.innerHTML = '<i class="fa-solid fa-magnifying-glass"></i>';
+                  });
+                </script>
               </button>
             </li>
           {% endif %}
