@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Physics Ph.D. candidate, <a href='https://pma.caltech.edu/'>California Institute of Technology</a>
+subtitle: Ph.D. Candidate in Physics, <a href='https://pma.caltech.edu/'>California Institute of Technology</a>
 
 profile:
   align: right
