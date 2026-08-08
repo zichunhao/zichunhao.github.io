@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Physics Ph.D. student, <a href='https://pma.caltech.edu/'>California Institute of Technology</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: # TODO(zichunhao): add prof_pic.jpg to assets/img/ and set `image: prof_pic.jpg`
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Pasadena, CA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +20,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a physics Ph.D. student at Caltech advised by Prof. Maria Spiropulu, working at the intersection of machine learning and particle physics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research develops **self-supervised foundation models** for collider data. I lead [RINO](https://github.com/zichunhao/RINO), a spotlight paper at the ML4PS workshop at NeurIPS 2025 that pre-trains transformers on unlabeled jets with DINO-style self-distillation and matches fully-supervised performance with 100× fewer labels. Earlier I built [Lorentz group equivariant autoencoders](https://github.com/zichunhao/lgn-autoencoder), published in *The European Physical Journal C*, and co-developed [JetNet](https://github.com/jet-net/JetNet), an open-source library for machine learning in high energy physics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At the [CMS experiment](https://cms.cern/) at CERN, I am one of the main analyzers of the boosted Higgs boson pair search in the four b quark final state. My work there spans tagger calibrations, BDT development, and statistical fits, validating production machine learning models against real collision data. I also enjoy teaching and co-designed the reinforcement learning final project on quantum state preparation for Caltech's Ph 22 course.
