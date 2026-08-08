@@ -10,7 +10,7 @@ F. Addesa et al. Published in Nuclear Instruments and Methods in Physics Researc
 I contributed to the QA/QC procedure, assembled test modules, and performed thermal cooling studies of the module.
 
 <div style="text-align: center">
-  <img src="/assets/img/publication_preview/btl.png" alt="BTL module timing performance" style="max-width: min(420px, 100%); border-radius: 8px" loading="lazy">
+  <img src="/assets/img/publication_preview/btl-page.png" alt="BTL module timing performance" style="max-width: min(420px, 100%); border-radius: 8px" loading="lazy">
 </div>
 
 ## Abstract
