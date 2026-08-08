@@ -10,3 +10,10 @@ description: Download the PDF version with the button above.
 toc:
   sidebar: left
 ---
+
+<style>
+  /* Uniform width for all date badges (match the widest, "2023 - present") */
+  .date-column .badge {
+    min-width: 115px !important;
+  }
+</style>
