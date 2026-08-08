@@ -7,7 +7,7 @@ importance: 1
 category: teaching
 ---
 
-For the Spring 2026 offering of Caltech's Ph 22, Computational Physics Laboratory III, I was one of the two teaching assistants who designed and built the final project, in which students train reinforcement learning agents to control a quantum system.
+For the Spring 2026 offering of [Caltech](https://www.caltech.edu/)'s Ph 22, Computational Physics Laboratory III, I was one of the two teaching assistants who designed and built the final project, in which students train reinforcement learning agents to control a quantum system.
 
 The physics setting is the [Tavis–Cummings model](https://en.wikipedia.org/wiki/Tavis%E2%80%93Cummings_model), the canonical [cavity quantum electrodynamics](https://en.wikipedia.org/wiki/Cavity_quantum_electrodynamics) system of atoms coupled to an optical cavity. The agent chooses laser pulses, each with a duration, an amplitude, and a phase. The environment integrates the [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) for each pulse and rewards the agent for steering the system toward a target quantum state such as a [Fock state](https://en.wikipedia.org/wiki/Fock_state), a [coherent state](https://en.wikipedia.org/wiki/Coherent_state), a [Bell state](https://en.wikipedia.org/wiki/Bell_state), or a [Schrödinger cat state](https://en.wikipedia.org/wiki/Cat_state).
 
