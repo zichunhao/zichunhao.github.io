@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Physics Ph.D. student, <a href='https://pma.caltech.edu/'>California Institute of Technology</a>
 
