@@ -1,189 +1,99 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Zichun Hao
+  label: Physics Ph.D. Student
+  email: zhao [at] caltech [dot] edu
+  location: Pasadena, CA
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Physics Ph.D. student at Caltech working on machine learning for particle physics, including self-supervised foundation models, geometric deep learning, and reinforcement learning
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: zichunhao
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: zichun-hao
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
+      - institution: California Institute of Technology
+        location: Pasadena, CA
+        url: https://pma.caltech.edu/
         area: Physics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2023-09
+        end_date: present
         highlights:
-          - Description 1.
-          - Description 2.
+          - Advised by Prof. Maria Spiropulu
+          - Research in machine learning and experimental high energy physics
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of California, San Diego
+        location: La Jolla, CA
+        area: Physics and Computer Science
+        studyType: B.S.
+        start_date: 2020-09
+        end_date: 2023-06
         highlights:
-          - Description 1.
-          - Description 2.
+          - Phi Beta Kappa
+          - Dean's Undergraduate Award for Excellence
+
+      - institution: University of California, Santa Barbara
+        location: Santa Barbara, CA
+        area: Physics
+        studyType: Undergraduate study
+        start_date: 2018-09
+        end_date: 2020-08
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Caltech High Energy Physics Group
+        position: Graduate Research Assistant
+        location: Pasadena, CA
+        start_date: 2023-09
+        end_date: present
+        summary: Research at the CMS experiment at CERN and on deep learning methods for physics
         highlights:
-          - Relativity
-          - Description 2.
+          - Lead RINO, a self-supervised foundation model for jets, with a spotlight paper at the ML4PS workshop at NeurIPS 2025
+          - One of the main analyzers of the boosted Higgs boson pair search in the four b quark final state, responsible for BDT trainings, datacard creation, and final fits
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: Fermi National Accelerator Laboratory
+        position: Visitor
+        location: Batavia, IL
+        start_date: 2024-07
+        end_date: 2025-09
+        summary: Self-supervised learning methods for high energy physics and the search for Higgs boson pair production with CMS data
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: UCSD Duarte Lab
+        position: Undergraduate Researcher
+        location: La Jolla, CA
+        start_date: 2021-01
+        end_date: 2023-06
+        summary: Geometric deep learning for experimental high energy physics
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+    Teaching:
+      - company: Caltech Ph 22
+        position: Teaching Assistant
+        location: Pasadena, CA
+        start_date: 2026-03
+        end_date: 2026-06
+        summary: Led lab sessions, graded coursework, and taught core AI concepts. One of two TAs who designed the reinforcement learning final project on quantum state preparation.
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Spotlight paper (first author) at the ML4PS workshop at NeurIPS 2025
+        date: 2025-12
+        awarder: ML4PS workshop at NeurIPS
+        summary: Offered to about 1% of the workshop's accepted papers
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Fermilab LPC Guest and Visitor Award
+        date: 2025
+        awarder: Fermilab LHC Physics Center
+        summary: Awarded in both 2024 and 2025
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: Phi Beta Kappa Honor Society
+        date: 2022-04
+        awarder: Phi Beta Kappa
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - title: Dean's Undergraduate Award for Excellence
+        date: 2022
+        awarder: UCSD Physical Sciences
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - title: Undergraduate Summer Research Award
+        date: 2021
+        awarder: UCSD
