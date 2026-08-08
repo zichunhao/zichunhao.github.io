@@ -7,7 +7,7 @@ first_name: Zichun
 middle_name:
 last_name: Hao
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Zichun Hao — physics Ph.D. student at Caltech working on machine learning for particle physics,
+  Zichun Hao — physics Ph.D. candidate at Caltech working on machine learning for particle physics,
   including self-supervised foundation models and geometric deep learning.
 footer_text: # left empty on purpose
 keywords: machine learning, particle physics, self-supervised learning, geometric deep learning, Caltech, CMS # add your own keywords or leave empty
