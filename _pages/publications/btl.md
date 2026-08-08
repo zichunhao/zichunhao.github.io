@@ -7,7 +7,7 @@ nav: false
 
 F. Addesa et al. Published in Nuclear Instruments and Methods in Physics Research Section A, volume 1081, page 170823 (2026).
 
-I contributed to the QA/QC procedure, assembled test modules, and performed thermal cooling studies of the module.
+I contributed to the QA/QC procedure, assembled detector modules and trays, and performed thermal cooling studies of the module.
 
 <div style="text-align: center">
   <img src="/assets/img/publication_preview/btl-page.png" alt="BTL module timing performance" style="max-width: min(420px, 100%); border-radius: 8px" loading="lazy">
