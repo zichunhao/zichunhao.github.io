@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-RINO was selected as a <a href="https://ml4physicalsciences.github.io/2025/">ML4PS workshop</a> spotlight at NeurIPS 2025, an honor offered to about 1% of the workshop's accepted papers. I presented the spotlight talk and poster in San Diego.
+RINO was selected as a <a href="https://ml4physicalsciences.github.io/2025/">ML4PS workshop</a> spotlight at NeurIPS 2025, an honor offered to about 1% of the workshop's accepted papers. I presented the <a href="https://neurips.cc/virtual/2025/loc/san-diego/135882">spotlight talk</a> and poster in San Diego.
