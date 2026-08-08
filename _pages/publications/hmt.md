@@ -9,6 +9,10 @@ M. Abbott et al. Published in JINST, volume 21, page P07040 (2026).
 
 I am a contributor to this work. I developed the electron+MDS and muon+MDS cross triggers, which were accepted into the CMS trigger menu in 2023.
 
+<div style="text-align: center">
+  <img src="/assets/img/publication_preview/hmt.png" alt="High Multiplicity Trigger" style="max-width: min(420px, 100%); border-radius: 8px" loading="lazy">
+</div>
+
 ## Abstract
 
 > Searches for long-lived particles (LLPs) at the CMS experiment often involve unconventional event topologies that are difficult to efficiently select using standard trigger strategies. To improve sensitivity to such signatures during LHC Run 3 operation, a dedicated High Multiplicity Trigger (HMT) has been developed and deployed in the CMS trigger system. The trigger targets events containing unusually large numbers of hits in the CMS cathode strip chamber (CSC) muon detectors, a characteristic signature of several LLP scenarios involving displaced decays in the muon system. The HMT implementation, trigger logic, rate dependence with pileup, and operational stability are described. Optimized hit multiplicity thresholds are used to maintain acceptable trigger rates under high-luminosity and high-pileup conditions while preserving high efficiency across a broad range of LLP lifetimes and kinematic regimes. The trigger performance is evaluated using both simulated event samples and proton-proton collision data collected during Run 3 of the LHC. The HMT substantially extends the CMS sensitivity to non-standard signatures associated with LLP decays and provides a flexible platform for future searches for physics beyond the Standard Model.
