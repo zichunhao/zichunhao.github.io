@@ -9,6 +9,10 @@ F. Addesa et al. Published in Nuclear Instruments and Methods in Physics Researc
 
 I contributed to the QA/QC procedure, assembled test modules, and performed thermal cooling studies of the module.
 
+<div style="text-align: center">
+  <img src="/assets/img/publication_preview/btl.png" alt="BTL module timing performance" style="max-width: min(420px, 100%); border-radius: 8px" loading="lazy">
+</div>
+
 ## Abstract
 
 > First of its kind, the barrel section of the MIP Timing Detector is a large area timing detector based on LYSO:Ce crystals and SiPMs which are required to operate in an unprecedentedly harsh radiation environment (up to an integrated fluence of 2×10¹⁴ 1 MeV n_eq/cm²). It is designed as a key element of the upgrade of the existing CMS detector to provide a time resolution for minimum ionizing particles in the range between 30-60 ps throughout the entire operation at the High Luminosity LHC. A thorough optimization of its components has led to the final detector module layout which exploits 25 μm cell size SiPMs and 3.75 mm thick crystals. This design achieved the target performance in a series of test beam campaigns. In this paper we present test beam results which demonstrate the desired performance of detector modules in terms of radiation tolerance, time resolution and response uniformity.
