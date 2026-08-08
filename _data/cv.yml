@@ -1,9 +1,9 @@
 cv:
   name: Zichun Hao
-  label: Physics Ph.D. Student
+  label: Physics Ph.D. Candidate
   location: Pasadena, CA
   image: ""
-  summary: Physics Ph.D. student at Caltech working on machine learning for particle physics, including self-supervised foundation models and geometric deep learning
+  summary: Physics Ph.D. candidate at Caltech working on machine learning for particle physics, including self-supervised foundation models and geometric deep learning
 
   social_networks:
     - network: GitHub
@@ -26,8 +26,8 @@ cv:
 
       - institution: University of California, San Diego
         location: La Jolla, CA
-        area: Physics and Computer Science
-        studyType: B.S.
+        area: Physics and Computer Science (double major)
+        studyType: Bachelor of Science
         start_date: 2020-09
         end_date: 2023-06
         highlights:
