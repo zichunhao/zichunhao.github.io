@@ -702,3 +702,5 @@ jsonresume:
   - languages
   - interests
   - references
+
+# (deploy retrigger marker — harmless comment)
