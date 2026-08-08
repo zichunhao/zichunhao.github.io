@@ -73,7 +73,7 @@ cv:
         summary: Geometric deep learning for experimental high energy physics
         highlights:
           - First-authored the [Lorentz Group Equivariant Autoencoder (LGAE)](/publications/lgae/), an autoencoder fully equivariant to the Lorentz group
-          - Trained the ParticleNet-based [boosted Higgs to WW tagger](/publications/jme-25-001/) for the CMS experiment
+          - Developed a ParticleNet-based [tagger for boosted Higgs boson decays to W boson pairs](https://meetings.aps.org/Meeting/APR22/Session/Q09.3) for the CMS experiment
 
     Teaching:
       - company: Caltech Ph 22 (Computational Physics Laboratory III)
