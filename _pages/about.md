@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a physics Ph.D. candidate at Caltech advised by [Prof. Maria Spiropulu](https://en.wikipedia.org/wiki/Maria_Spiropulu), working at the intersection of machine learning and particle physics.
+I am a physics Ph.D. candidate at [Caltech](https://www.caltech.edu/) advised by [Prof. Maria Spiropulu](https://en.wikipedia.org/wiki/Maria_Spiropulu), working at the intersection of machine learning and particle physics.
 
 My research develops **self-supervised foundation models** for collider data. I lead [RINO](https://github.com/zichunhao/RINO), a spotlight paper at the ML4PS workshop at NeurIPS 2025 that pretrains transformers on unlabeled jets with DINO-style self-distillation and matches fully-supervised performance with 100× fewer labels. During my undergraduate years I was mentored by [Prof. Javier Duarte](https://profiles.ucsd.edu/javier.duarte) and [Dr. Raghav Kansal](https://www.raghavkansal.com/), building [Lorentz group equivariant autoencoders](https://github.com/zichunhao/lgn-autoencoder), published in _The European Physical Journal C_, and contributing to [JetNet](https://github.com/jet-net/JetNet), an open-source library for machine learning in high energy physics.
 

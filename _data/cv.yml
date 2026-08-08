@@ -15,7 +15,7 @@ cv:
     Education:
       - institution: California Institute of Technology
         location: Pasadena, CA
-        url: https://pma.caltech.edu/
+        url: https://www.caltech.edu/
         area: Physics
         studyType: Ph.D. Candidate
         start_date: 2023-09
@@ -26,6 +26,7 @@ cv:
 
       - institution: University of California, San Diego
         location: La Jolla, CA
+        url: https://www.ucsd.edu/
         area: Physics and Computer Science (double major)
         studyType: Bachelor of Science
         start_date: 2020-09
@@ -36,6 +37,7 @@ cv:
 
       - institution: University of California, Santa Barbara
         location: Santa Barbara, CA
+        url: https://www.ucsb.edu/
         area: Physics
         studyType: Undergraduate study
         start_date: 2018-09
@@ -45,6 +47,7 @@ cv:
       - company: Caltech High Energy Physics Group
         position: Graduate Research Assistant
         location: Pasadena, CA
+        url: https://pma.caltech.edu/
         start_date: 2023-09
         end_date: present
         summary: Research at the CMS experiment at CERN and on deep learning methods for physics
@@ -55,6 +58,7 @@ cv:
       - company: Fermi National Accelerator Laboratory
         position: Visitor
         location: Batavia, IL
+        url: https://www.fnal.gov/
         start_date: 2024-07
         end_date: 2025-09
         summary: Self-supervised learning methods for high energy physics and the search for Higgs boson pair production with CMS data
@@ -71,7 +75,7 @@ cv:
       - company: Caltech Ph 22 (Computational Physics Laboratory III)
         position: Teaching Assistant
         location: Pasadena, CA
-        url: https://zichunhao.com/projects/rl-quantum-state-prep/
+        url: /projects/rl-quantum-state-prep/
         start_date: 2026-03
         end_date: 2026-06
         summary: One of two TAs who designed and built the course's final project on reinforcement learning for quantum state preparation
@@ -90,10 +94,12 @@ cv:
       - title: Fermilab LPC Guest and Visitor Award
         date: 2025
         awarder: Fermilab LHC Physics Center
+        url: https://lpc.fnal.gov/
 
       - title: Fermilab LPC Guest and Visitor Award
         date: 2024
         awarder: Fermilab LHC Physics Center
+        url: https://lpc.fnal.gov/
 
       - title: Phi Beta Kappa Honor Society
         date: 2022-04
