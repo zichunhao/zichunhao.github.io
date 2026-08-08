@@ -7,7 +7,7 @@ nav: false
 
 Zichun Hao, Raghav Kansal, Abhijith Gandrakota, Chang Sun, Jennifer Ngadiuba, Javier Duarte, Maria Spiropulu
 
-Spotlight paper at the ML4PS workshop at NeurIPS 2025, offered to about 1% of the workshop's accepted papers. 
+Spotlight paper at the ML4PS workshop at NeurIPS 2025, offered to about 1% of the workshop's accepted papers.
 
 <div style="text-align: center">
   <img src="/assets/img/publication_preview/rino-page.png" alt="RINO overview" style="max-width: min(420px, 100%); border-radius: 8px" loading="lazy">
@@ -23,7 +23,7 @@ Spotlight paper at the ML4PS workshop at NeurIPS 2025, offered to about 1% of th
 - [Code on GitHub](https://github.com/zichunhao/RINO)
 - [Spotlight talk at NeurIPS 2025](https://neurips.cc/virtual/2025/loc/san-diego/135882)
 - [ML4PS workshop paper](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_81.pdf)
-- [Poster at NeurIPS 2025](https://neurips.cc/media/PosterPDFs/NeurIPS%202025/122856.png)
+- [Poster at the ML4PS workshop at NeurIPS 2025](https://neurips.cc/media/PosterPDFs/NeurIPS%202025/122856.png)
 
 ## Cite
 

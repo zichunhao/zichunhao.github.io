@@ -21,7 +21,7 @@ Presented at the ML4PS workshop at NeurIPS 2025. I served as a mentor on this wo
 
 - [arXiv:2511.12829](https://arxiv.org/abs/2511.12829)
 - [ML4PS workshop paper](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_70.pdf)
-- [Poster at NeurIPS 2025](https://neurips.cc/media/PosterPDFs/NeurIPS%202025/123039.png)
+- [Poster at the ML4PS workshop at NeurIPS 2025](https://neurips.cc/media/PosterPDFs/NeurIPS%202025/123039.png)
 
 ## Cite
 
