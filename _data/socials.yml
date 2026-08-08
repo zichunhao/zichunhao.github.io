@@ -5,5 +5,10 @@ cv_pdf: /assets/pdf/Zichun_Hao_CV.pdf # path to your CV PDF file
 # email intentionally omitted from public source; contact via LinkedIn
 github_username: zichunhao # your GitHub username
 linkedin_username: zichun-hao # your LinkedIn username
-# scholar_userid: # TODO(zichunhao): add Google Scholar ID (the user= value in your Scholar profile URL)
-# inspirehep_id: # TODO(zichunhao): add Inspire HEP author ID if desired
+scholar_userid: k7ESLhwAAAAJ # your Google Scholar ID
+orcid_id: 0000-0002-5624-4907 # your ORCID iD
+inspirehep_id: 2745586 # Inspire HEP author ID
+custom_social:
+  logo: https://physics.caltech.edu/favicon.ico
+  title: Caltech profile
+  url: https://physics.caltech.edu/people/zichun-hao
