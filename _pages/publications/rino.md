@@ -7,7 +7,7 @@ nav: false
 
 Zichun Hao, Raghav Kansal, Abhijith Gandrakota, Chang Sun, Jennifer Ngadiuba, Javier Duarte, Maria Spiropulu
 
-Spotlight paper at the ML4PS workshop at NeurIPS 2025, offered to about 1% of the workshop's accepted papers.
+Spotlight paper at the ML4PS workshop at NeurIPS 2025, offered to about 1% of the workshop's accepted papers. RINO is a step towards self-supervised foundation models for jets.
 
 <div style="text-align: center">
   <img src="/assets/img/publication_preview/rino-page.png" alt="RINO overview" style="max-width: min(420px, 100%); border-radius: 8px" loading="lazy">
