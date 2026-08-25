@@ -54,7 +54,7 @@ cv:
         summary: Research at the CMS experiment at CERN and on deep learning methods for physics
         highlights:
           - Lead [RINO](/publications/rino/), a self-supervised learning approach and a step towards foundation models for jets, with a spotlight paper at the ML4PS workshop at NeurIPS 2025
-          - One of the main contributors to the [boosted Higgs boson pair search in the four bottom quark final state](/publications/hig-24-010/), responsible for BDT trainings, datacard creation, and final fits
+          - One of the main contributors to the [boosted Higgs boson pair search in the four bottom quark final state](/publications/hig-24-010/), responsible for the trigger and jet tagger calibrations behind the published results and for BDT trainings, datacard creation, and final fits in the continuing analysis
 
       - company: Fermi National Accelerator Laboratory
         position: Visitor
