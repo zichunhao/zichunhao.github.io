@@ -33,6 +33,7 @@ cv:
         start_date: 2020-09
         end_date: 2023-06
         highlights:
+          - Highest Distinction in Physics and Cum Laude in Computer Science
           - Phi Beta Kappa
           - Dean's Undergraduate Award for Excellence
 
@@ -108,6 +109,11 @@ cv:
         location: Batavia, IL
         awarder: Fermilab LHC Physics Center
         url: https://lpc.fnal.gov/programs/guests-visitors/current.shtml
+
+      - title: Highest Distinction in Physics and Cum Laude in Computer Science
+        date: 2023-06
+        location: La Jolla, CA
+        awarder: UC San Diego
 
       - title: Phi Beta Kappa Honor Society
         date: 2022-04
