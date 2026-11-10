@@ -91,6 +91,9 @@ cv:
           - Designed the project questions, the graded ladder of target quantum states, reward shaping, and multi-seed evaluation requirements
           - Graded coursework and mentored students through their final project implementations
 
+    Academic Service:
+      - bullet: Reviewer, Machine Learning and the Physical Sciences (ML4PS) workshop at NeurIPS 2026
+
     Awards:
       - title: Spotlight paper (first author) at the ML4PS workshop at NeurIPS 2025
         date: 2025-12
